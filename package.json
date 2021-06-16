@@ -4,7 +4,7 @@
     "main": "lib/index.js",
     "version": "0.0.3",
     "dependencies": {
-        "q": "1.0.1",
+        "q": "1.5.1",
         "lodash": "2.4.1",
         "tmp": "0.0.23",
         "wrench": "1.5.8",
